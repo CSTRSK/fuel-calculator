@@ -340,6 +340,15 @@ export default function App() {
             className="mx-auto flex max-w-[1200px] flex-wrap items-center justify-center gap-2 px-4 py-2 text-xs text-[#3d4551] sm:px-6 lg:px-8 dark:text-[#b8c4d4]"
           >
             <a
+              href="https://cstrsk.de/"
+              className="inline-flex min-h-[44px] items-center px-2 py-2 font-semibold underline underline-offset-4 hover:text-[#005ea2] dark:hover:text-[#73b3e7]"
+            >
+              cstrsk.de
+            </a>
+            <span aria-hidden="true" className="opacity-50">
+              ·
+            </span>
+            <a
               href="https://cstrsk.de/Impressum.html"
               className="inline-flex min-h-[44px] items-center px-2 py-2 underline underline-offset-4 hover:text-[#005ea2] dark:hover:text-[#73b3e7]"
             >
