@@ -340,7 +340,7 @@ export default function App() {
             className="mx-auto flex max-w-[1200px] flex-wrap items-center justify-center gap-2 px-4 py-2 text-xs text-[#3d4551] sm:px-6 lg:px-8 dark:text-[#b8c4d4]"
           >
             <a
-              href="/Impressum.html"
+              href="https://cstrsk.de/Impressum.html"
               className="inline-flex min-h-[44px] items-center px-2 py-2 underline underline-offset-4 hover:text-[#005ea2] dark:hover:text-[#73b3e7]"
             >
               {t.footerImprint}
@@ -349,7 +349,7 @@ export default function App() {
               ·
             </span>
             <a
-              href="/dsvgo.html"
+              href="https://cstrsk.de/dsvgo.html"
               className="inline-flex min-h-[44px] items-center px-2 py-2 underline underline-offset-4 hover:text-[#005ea2] dark:hover:text-[#73b3e7]"
             >
               {t.footerPrivacy}
